@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/IvantheDugtrio/cloneHD.svg?branch=master)
+
 # How to get cloneHD and filterHD?
 
 The current stable release, as well as pre-compiled executable binaries 

@@ -1,0 +1,7 @@
+langauge: c++
+compiler: g++
+before_install:
+    - sudo apt-get install libgsl0-dev
+script:
+    cd src/
+    make
